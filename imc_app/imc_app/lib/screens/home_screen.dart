@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import '../models/pessoa.dart';
-import '../utils/calculos.dart';
 import 'result_screen.dart';
 
 class HomeScreen extends StatefulWidget {
